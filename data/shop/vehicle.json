@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Tank",
+      "protection": 0.9,
+      "speed": 50,
+      "capacity": 4,
+      "hp": 10000,
+      "damage": 1000,
+      "role" : "military",
+      "category" : "tank",
+      "price": 1
+    },
+    {
+      "name": "Helicopter",
+      "protection": 0.9,
+      "speed": 500,
+      "capacity": 6,
+      "hp": 1000,
+      "damage": 20,
+      "role" : "medical",
+      "category" : "helicopter",
+      "price": 5
+    },
+    {
+      "name": "Jeep",
+      "protection": 0.2,
+      "speed": 50,
+      "capacity": 4,
+      "hp": 1000,
+      "damage": 20,
+      "role" : "military",
+      "category" : "car",
+      "price": 5
+    }
+  ]
+  

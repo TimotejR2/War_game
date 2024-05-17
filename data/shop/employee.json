@@ -1,0 +1,15 @@
+[
+    {
+        "name": "A",
+        "role": "military",
+        "price": 1,
+        "equipment": []
+    },
+    {
+        "name": "B",
+        "role": "medical",
+        "price": 5,
+        "equipment": []
+
+    }
+]
